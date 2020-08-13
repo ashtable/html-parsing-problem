@@ -1,0 +1,27 @@
+{
+  "name": "html-parsing-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtable/html-parsing-problem.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "parser"
+  ],
+  "author": "Ash Srinivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashtable/html-parsing-problem/issues"
+  },
+  "homepage": "https://github.com/ashtable/html-parsing-problem#readme",
+  "dependencies": {
+    "jest": "^26.4.0"
+  }
+}
