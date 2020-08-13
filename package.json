@@ -2,7 +2,7 @@
   "name": "html-parsing-problem",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "htmlParser.js",
   "scripts": {
     "test": "jest"
   },
